@@ -1,0 +1,10 @@
+.env
+alarms.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+bot.log
+venv/
+
